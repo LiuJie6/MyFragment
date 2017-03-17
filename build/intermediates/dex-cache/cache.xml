@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_3e9a12aa7e5ade0881e99610adecb28b9dbc76be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_320eedaa2510ba9d414e459c0d4d5f15ae00ae31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_fb7000c363be079eb8ca0e19a22de2cdc257e173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_f458a047558c24654758a32ef894daf6c4b4d445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_0724031ba137f6e6cd162d1cc2979e90d9d960b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_02c07995b1212f31bcb47a3399304d53a7beb748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_d1750687da7bbde88fecdbb48712e9fb8a1b7e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_0b22e3cd010620c2f2b6c20a5cf59319b0b28d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_50dec41fe35b77bb0bd62bf3ea28fad9c6af6359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="O:\Android_intro\MyFragment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="O:\Android_intro\MyFragment\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_8dba0fcbc163725b03e742911d3c58adc3987334.jar" />
+    </item>
+
+</items>
